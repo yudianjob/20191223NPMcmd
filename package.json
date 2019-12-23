@@ -4,12 +4,13 @@
   "description": "",
   "main": "index.js",
   "dependencies": {
-    "jquery": "^3.4.1"
+    "jquery": "^3.4.1",
+    "zepto": "^1.2.0"
   },
   "devDependencies": {},
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-	//"less":"lessc 1.less 1.min.css -x"
+    "myless": "lessc 1.less 1.min.css -x"
   },
   "keywords": [],
   "author": "",
