@@ -1,0 +1,17 @@
+{
+  "name": "projectNpm",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "jquery": "^3.4.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+	//"less":"lessc 1.less 1.min.css -x"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
